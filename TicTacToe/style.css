@@ -1,0 +1,21 @@
+.cell{
+    width: 75px;
+    height: 75px;
+    color: black;
+    border: 2px solid;
+    box-shadow:1cm;
+    line-height: 50px;
+    font-size: 50px;
+    cursor: pointer;
+}
+#gameContainer{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+#cellContainer{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 225px;
+    margin: auto;
+}
