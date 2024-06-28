@@ -1,0 +1,46 @@
+
+.container{
+    padding: 80px 60px;
+    cursor: grab;
+    font-size:30px;
+    font-weight:550;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.btn {
+    border-radius: 50px;
+    background-color: #e2ff29;
+    align-self: start;
+    margin-top: 30px;
+    color: #000;
+    text-align: center;
+    justify-content: center;
+    padding: 22px 57px;
+    font-size:larger;
+    font: 1500px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+  }
+.inputBox {
+position: relative;
+border-radius: 40px;
+width: 100%;
+max-width: 500px;
+min-height: 150px;
+background: #090909;
+color: #ffffff;
+padding: 20px;
+margin: 20 px 0;
+outline: none;
+border-radius: 5px;
+font-size: medium;
+  }
+body{background-color: aqua;} 
+  .inputBox img{
+    width: 40px;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    cursor: pointer;
+  }
+
