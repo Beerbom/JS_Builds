@@ -1,2 +1,2 @@
-# js-builds
-Set of simple Javascript builds to improve JS.
+# calculator
+Simple Calculator made from JS,HTML,CSS.
